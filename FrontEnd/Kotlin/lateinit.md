@@ -1,0 +1,2 @@
+
+A lateinit property is a property that is declared without an initial value, but is guaranteed to be initialized before it is used. This is useful for properties that cannot be initialized in the constructor, but need to be initialized before they are used. An initialized property, on the other hand, is a property that is declared with an initial value and can be used immediately.

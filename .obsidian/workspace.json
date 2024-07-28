@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "92553d54c321c4f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "2af5404539ed12ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d0f8bbe164db4c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FrontEnd/Kotlin/Coroutines.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bacb86c952345dfa",
+    "type": "split",
+    "children": [
+      {
+        "id": "77e55362b372f180",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38e4f4476539a396",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2d78db1a50fd3e87",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "caca26406cf053a4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7fcaf267075af437",
+    "type": "split",
+    "children": [
+      {
+        "id": "855a4267e069d228",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae04b4e8f22fc4d2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "FrontEnd/Kotlin/Coroutines.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "677533c6846ef05c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "FrontEnd/Kotlin/Coroutines.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5ae592f2a5c33eb9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "305da90d0fab73c6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "FrontEnd/Kotlin/Coroutines.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "8d0f8bbe164db4c6",
+  "lastOpenFiles": [
+    "FrontEnd/Kotlin/unit.md",
+    "FrontEnd/ReactJS",
+    "Backend/BackendDesign",
+    "Backend/SystemDesign",
+    "Backend/AWS",
+    "Backend/NodeJS",
+    "DataStructure",
+    "Backend",
+    "FrontEnd",
+    "FrontEnd/Kotlin/Static and Dynamic Dispatch.md",
+    "FrontEnd/Kotlin/Singleton.md",
+    "FrontEnd/Kotlin/Sealed Class.md",
+    "FrontEnd/Kotlin/Scope functions.md",
+    "FrontEnd/Kotlin/Properties.md",
+    "FrontEnd/Kotlin/Object Expression.md",
+    "FrontEnd/Kotlin/Object.md",
+    "FrontEnd/Kotlin/Lazy.md",
+    "FrontEnd/Kotlin/lateinit.md",
+    "DataStructure/LeetCode/Recursion.md",
+    "DataStructure/LeetCode/Linked List.md",
+    "DataStructure/LeetCode/Heap.md",
+    "DataStructure/LeetCode/Graph.md",
+    "DataStructure/LeetCode/Game.md",
+    "DataStructure/LeetCode/Dynamic Programming.md",
+    "DataStructure/LeetCode/Array.md",
+    "Pasted image 20240726212355.png",
+    "FrontEnd/Kotlin/Kotlin Interview Questions.md",
+    "FrontEnd/Kotlin/Class/Interface.md",
+    "FrontEnd/Kotlin/Class/Inheritance.md",
+    "FrontEnd/Kotlin/Class/Enum - Sealed Class.md",
+    "FrontEnd/Kotlin/Class/Constructors.md",
+    "FrontEnd/Kotlin/Class/Class.md",
+    "FrontEnd/Kotlin/Class/Abstract Class.md",
+    "FrontEnd/System Design/Microservice.md",
+    "FrontEnd/System Design/Polling.md",
+    "Untitled.canvas",
+    "DataStructure/Concepts",
+    "DataStructure/LeetCode",
+    "Untitled 1.canvas"
+  ]
+}
