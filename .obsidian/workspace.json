@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FrontEnd/Android/App deployment.md",
+                "file": "FrontEnd/Kotlin/Scope functions*.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FrontEnd/Android/App deployment.md",
+                "file": "FrontEnd/Kotlin/Scope functions*.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FrontEnd/Android/App deployment.md",
+                "file": "FrontEnd/Kotlin/Scope functions*.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FrontEnd/Android/App deployment.md"
+                "file": "FrontEnd/Kotlin/Scope functions*.md"
               }
             }
           }
@@ -162,6 +162,25 @@
   },
   "active": "6ce5fe2ffb38da9d",
   "lastOpenFiles": [
+    "FrontEnd/Kotlin/let also apply run.md",
+    "FrontEnd/Kotlin/Scope functions*.md",
+    "FrontEnd/Kotlin/Method.md",
+    "FrontEnd/Kotlin/Object.md",
+    "FrontEnd/Kotlin/Lazy.md",
+    "FrontEnd/Kotlin/lateinit.md",
+    "FrontEnd/Kotlin/Kotlin Interview Questions.md",
+    "FrontEnd/Kotlin/Inline Function.md",
+    "FrontEnd/Kotlin/Higher Order Expression.md",
+    "Pasted image 20240728202725.png",
+    "FrontEnd/Kotlin/Packages.md",
+    "FrontEnd/Kotlin/Field properties.md",
+    "FrontEnd/Kotlin/Delegation.md",
+    "Pasted image 20240728192637.png",
+    "Pasted image 20240728192357.png",
+    "FrontEnd/Kotlin/Enum class.md",
+    "FrontEnd/System Design/Library.md",
+    "FrontEnd/System Design/Modular Project.md",
+    "FrontEnd/Android/App deployment.md",
     "FrontEnd/Android/Android Build.md",
     "FrontEnd/Android/Deep linking.md",
     "FrontEnd/Android/Login Activity.md",
@@ -169,25 +188,9 @@
     "FrontEnd/Kotlin/Static and Dynamic Dispatch.md",
     "FrontEnd/Kotlin/Singleton.md",
     "FrontEnd/Kotlin/Sealed Class.md",
-    "FrontEnd/Kotlin/Scope functions.md",
     "FrontEnd/Kotlin/Object Expression.md",
-    "FrontEnd/Kotlin/Object.md",
-    "FrontEnd/Kotlin/Lazy.md",
-    "FrontEnd/Kotlin/lateinit.md",
     "FrontEnd/Kotlin/Lambda expression.md",
-    "FrontEnd/Kotlin/Higher Order Expression.md",
     "FrontEnd/Kotlin/Generics.md",
-    "FrontEnd/Kotlin/Fold & Reduce.md",
-    "FrontEnd/Kotlin/Extensions.md",
-    "FrontEnd/Kotlin/Exceptions.md",
-    "FrontEnd/Kotlin/Enum class.md",
-    "FrontEnd/Kotlin/Data class.md",
-    "FrontEnd/Kotlin/Coroutines.md",
-    "FrontEnd/Kotlin/Companion.md",
-    "FrontEnd/Kotlin/Closure.md",
-    "FrontEnd/Kotlin/Cast.md",
-    "FrontEnd/Android/Fragment.md",
-    "FrontEnd/Android/Event Handling.md",
     "FrontEnd/ReactJS",
     "Backend/BackendDesign",
     "Backend/SystemDesign",
