@@ -1,22 +1,26 @@
 
 
 
-“A class definition is like a blueprint, whereas an instance is a real object. To access the value of an instance, you use the keyword this inside the class.”
-“The keyword this acts as a reference to the current instance. Make a SimpleDate3 with this transformed method:”
+A class definition is like a blueprint, whereas an instance is a real object. To access the value of an instance, you use the keyword this inside the class.”
+“The keyword this acts as a reference to the current instance. Make a SimpleDate3 with this transformed method:
+
+```kotlin
 
 fun monthsUntilWinterBreak(): Int {
   // 2
   return months.indexOf("December") - months.indexOf(this.month)
 }
+```
 
 ## Object methods
 
-“For class companion objects, like companion object properties, you can use companion object methods to access data across all instances. You call companion object methods on the class itself, instead of on an instance. To define a companion object method, you put its definition inside the companion object block.”
+For class companion objects, like companion object properties, you can use companion object methods to access data across all instances. You call companion object methods on the class itself, instead of on an instance. To define a companion object method, you put its definition inside the companion object block.
 
-“Object methods are useful for things that are about a type in general, rather than something about specific instances.”
+Object methods are useful for things that are about a type in general, rather than something about specific instances.
 
 
-```
+```kotlin
+
 class MyMath {
   // 1
   companion object {
@@ -33,9 +37,9 @@ MyMath.factorial(6) // 720”
 
 
 ## Extension methods
-```
+```kotlin
 
-“fun SimpleDate.monthsUntilSummerBreak(): Int {
+fun SimpleDate.monthsUntilSummerBreak(): Int {
   val monthIndex = months.indexOf(month)
   return if (monthIndex in 0..months.indexOf("June")) {
     months.indexOf("June") - months.indexOf(month)
@@ -63,8 +67,9 @@ println((-4).abs()) // > 4”
 
 “If your class has a companion object, you can add extension methods to it by using the implicit companion object name Companion, or by using the custom name if the companion object has one.”
 
-```
-“fun MyMath.Companion.primeFactors(value: Int): List<Int> {
+```kotlin
+
+fun MyMath.Companion.primeFactors(value: Int): List<Int> {
   // 1
   var remainingValue = value
   // 2

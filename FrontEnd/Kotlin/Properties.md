@@ -12,7 +12,7 @@
 ## Property initializers
 
 ## Companion object properties
-```
+```kotlin
 
 class Level(
   val id: Int,
@@ -40,7 +40,7 @@ You may want to pass the initialization off to another object, or delay the init
 
 “You can also use delegated property observers to limit the value of a variable. Say you had a light bulb that could only support a maximum current flowing through its filament.”
 
-```
+```kotlin
 
 class LightBulb {
   companion object {
@@ -63,7 +63,7 @@ class LightBulb {
 ## Lazy properties
 “If you have a property that might take some time to calculate and you don’t want to slow things down until you actually need the property, say hello to lazy properties.”
 
-```
+```kotlin
 class Circle(var radius: Double = 0.0) {
   val pi: Double by lazy {
     ((4.0 * Math.atan(1.0 / 5.0)) - Math.atan(1.0 / 239.0)) * 4.0
@@ -79,7 +79,7 @@ class Circle(var radius: Double = 0.0) {
 
 “If you just want to denote that a property will not have a value when the class instance is created, then you can use the lateinit keyword.”
 
-```
+```kotlin
 class Lamp {
   lateinit var bulb: LightBulb
 }
@@ -88,7 +88,7 @@ class Lamp {
 Since the property has no value when the class instance is initialized, and the property will be changed at some later time, you must use var with lateinit and not val.
 
 
-```
+```kotlin
 “val lamp = Lamp()
 // ... lamp has no lightbulb, need to buy some!
 
@@ -107,7 +107,7 @@ lamp.bulb = LightBulb()”
 
 To add an extension property, create a new property with the property name appended to the class name, like so:
 
-```
+```kotlin
 val Circle.diameter: Double
   get() = 2.0 * radius
 ```

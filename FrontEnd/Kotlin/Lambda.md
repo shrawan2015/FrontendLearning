@@ -136,7 +136,8 @@ public interface Function1<in P1, out R> : Function<R> {
 ## Lambdas with receivers
 
 “Just as you can specify a receiver for an extension function, you can do so for a lambda as well.”
-“fun beginBattle(
+
+fun beginBattle(
   firstRobot: Robot,
   secondRobot: Robot,
   onBattleEnded: Robot.() -> Unit
@@ -145,9 +146,9 @@ public interface Function1<in P1, out R> : Function<R> {
   battle(firstRobot, secondRobot)
   winner = if (firstRobot.isAlive) firstRobot else secondRobot
   winner.onBattleEnded()
-}”
+}
 
-Excerpt From
-Kotlin Apprentice
-By Irina Galata
-This material may be protected by copyright.
+
+
+
+https://medium.com/@s.badamestani/lambda-in-kotlin-a6fc055a2c88

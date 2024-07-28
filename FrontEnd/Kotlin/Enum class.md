@@ -1,12 +1,6 @@
 
+```kotlin
 
-# Enum Classes
-## **Enum Properties:**
-## **Enum Methods:**
-## Enum Constructors:
-## Enum Extensions:
-
-```
 enum class DayOfWeek {  
 	MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY, SUNDAY  
 }
@@ -87,3 +81,8 @@ fun printNextDay(day: DayOfWeek) {
 
 ```
 
+## Enum Classes
+## **Enum Properties:**
+## **Enum Methods:**
+## Enum Constructors:
+## Enum Extensions:

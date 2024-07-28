@@ -215,3 +215,4 @@ https://www.testgorilla.com/blog/kotlin-interview-questions/
 https://github.com/vamsitallapudi/Android-Interview-Questions-And-Answers/blob/master/kotlin/README.md
 https://akcoding.com/kotlin-interview-questions-for-senior-developer/#14-how-do-you-ensure-thread-safety-in-kotlin-applications
 https://shirsh94.medium.com/top-100-kotlin-interview-questions-and-answers-d1f6785f336a
+https://zsmb.co/top-10-kotlin-stack-overflow-questions-1/

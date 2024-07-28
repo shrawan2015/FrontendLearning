@@ -14,14 +14,17 @@ The object keyword lets you easily implement a common pattern in software develo
 
 **“A type defined with object cannot have constructors: Since there is only one instance of an object, there is no reason to provide constructor functions to create other instances. In a sense, the type is the instance.”**
 
+```kotlin
 object X {
   var x = 0
 }
 
+```
+
 
 “An example use case for a singleton is an in-memory repository for a set of data. ”
 
-```
+```kotlin
 object StudentRegistry {
   val allStudents = mutableListOf<Student>()
 
@@ -39,11 +42,12 @@ object StudentRegistry {
     }
   }
 }
-“StudentRegistry.addStudent(marie)
+
+
+StudentRegistry.addStudent(marie)
 StudentRegistry.addStudent(albert)
 StudentRegistry.addStudent(emmy)
-
-StudentRegistry.listAllStudents()”
+StudentRegistry.listAllStudents()
 
 ```
 
@@ -52,7 +56,7 @@ Maintains the list of students in a mutable list.
 Lets you add and remove students from the registry.
 Lets you print out the full name of all the students in the registry.”
 
-```
+```kotlin
 object JsonKeys {
   const val JSON_KEY_ID = "id"
   const val JSON_KEY_FIRSTNAME = "first_name"

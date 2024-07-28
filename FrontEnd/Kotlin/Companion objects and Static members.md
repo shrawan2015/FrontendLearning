@@ -6,9 +6,8 @@ But removing code duplication is useful, so how does Kotlin allow you to define 
 
 “You create the companion object by prepending companion to an object defined in the class. Add this class to your file:”
 
-```
-
-“class Scientist private constructor(
+```kotlin
+class Scientist private constructor(
   val id: Int,
   val firstName: String,
   val lastName: String
@@ -27,7 +26,7 @@ But removing code duplication is useful, so how does Kotlin allow you to define 
   }
 
   var fullName = "$firstName $lastName"
-}”
+}
 ```
 
 “A common use case for static members is to implement the factory pattern for creating new class instances. You’re using the factory pattern in Scientist by making the class primary constructor private and adding a factory method newScientist() to the companion object, which creates new scientist instances.”
@@ -36,9 +35,9 @@ But removing code duplication is useful, so how does Kotlin allow you to define 
 
 “You can create a repository of scientists as a singleton. Add the following ScientistRepository:”
 
-```
+```kotlin
 
-“object ScientistRepository {
+object ScientistRepository {
   val allScientists = mutableListOf<Scientist>()
 
   fun addScientist(scientist: Scientist) {
@@ -54,7 +53,7 @@ But removing code duplication is useful, so how does Kotlin allow you to define 
       println("${it.id}: ${it.fullName}")
     }
   }
-}”
+}
 ```
 
 
@@ -63,23 +62,22 @@ But removing code duplication is useful, so how does Kotlin allow you to define 
 
 “The companion object is given an ***implicit name of Companion***. You can use a custom name by adding it after the companion object keywords:”
 
-```
-“companion object Factory {
+```kotlin
+companion object Factory {
   // companion object members
 }”
 
-“Scientist isaac = Scientist.Factory.newScientist("Isaac", "Newton");”
+Scientist isaac = Scientist.Factory.newScientist("Isaac", "Newton");”
 
 ```
 
 
 ## Using anonymous objects
 
+- You use object to create the Kotlin version of anonymous classes called anonymous objects or object expressions”
+- Anonymous classes are used in Java to override the behavior of existing classes without the need to subclass, and also to implement interfaces without defining a concrete class. In both cases, the compiler creates a single anonymous instance, to which no name need be given. 
 
-“You use object to create the Kotlin version of anonymous classes called anonymous objects or object expressions”
-“Anonymous classes are used in Java to override the behavior of existing classes without the need to subclass, and also to implement interfaces without defining a concrete class. In both cases, the compiler creates a single anonymous instance, to which no name need be given. 
-
-```
+```kotlin
 interface Counts {
   fun studentCount(): Int
   fun scientistCount(): Int
@@ -98,9 +96,8 @@ interface Counts {
 println(counter.studentCount()) // > 3
 println(counter.scientistCount()) // > 3
 
-“You create an instance of the counter using the object keyword followed by a colon and the name of the interface. Inside braces, you override each of the interface methods. Run this code so you can see the counts print out.”
+You create an instance of the counter using the object keyword followed by a colon and the name of the interface. Inside braces, you override each of the interface methods. Run this code so you can see the counts print out.
 ```
-
 
 
 
