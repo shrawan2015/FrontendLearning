@@ -1,4 +1,4 @@
-```
+```kotlin
 // 1
 open class Person(var firstName: String, var lastName: String) {
   fun fullName() = "$firstName $lastName"
@@ -26,7 +26,7 @@ class Student(
 - A Kotlin class can inherit from only one other class, a concept known as single inheritance.
 - A Kotlin class can only inherit from a class that is open.
 - There’s no limit to the depth of subclassing, meaning you can subclass from a class that is also a subclass, like below (and first redefining Student with open)
-```
+```kotlin
 
 “println(hallMonitor is OboePlayer) // true, since assigned it to oboePlayer
 println(hallMonitor !is OboePlayer) // also have !is for "not-is"

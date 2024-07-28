@@ -2,7 +2,7 @@
 
 “Closures are so named because they have the ability to “close over” the variables and constants within the closure’s own scope. This simply means that a lambda can access, store and manipulate the value of any variable or constant from the surrounding context, acting as a nested function. Variables and constants used within the body of a lambda are said to have been captured by the lambda.
 
-```
+```kotlin
 var multiplyLambda: (Int, Int) -> Int
 multiplyLambda = { a: Int, b: Int -> Int
   a * b
@@ -12,7 +12,7 @@ multiplyLambda = { a: Int, b: Int -> Int
 
 “For a lambda that has only one parameter, you can shorten it even further using the it keyword. As an example, look at this lambda:
 
-```
+```kotlin
 doubleLambda = { 2 * it }
 var doubleLambda = { a: Int ->
   2 * a
@@ -20,7 +20,7 @@ var doubleLambda = { a: Int ->
 ```
 
 
-```
+```kotlin
 fun operateOnNumbers(
   a: Int,
   b: Int,
@@ -44,7 +44,7 @@ operateOnNumbers(4, 2, operation = Int::plus)”
 }
 ```
 
-```
+```kotlin
 var unitLambda: () -> Unit = {
   println("Kotlin Apprentice is awesome!")
 }
@@ -102,8 +102,10 @@ println(sum) // > 26.980000000000004”
 ```
 
 
-```
-“fun repeatTask(times: Int, task: () -> Unit)”
+```kotlin
+
+fun repeatTask(times: Int, task: () -> Unit)
+
 ```
 
 
@@ -137,6 +139,7 @@ public interface Function1<in P1, out R> : Function<R> {
 
 “Just as you can specify a receiver for an extension function, you can do so for a lambda as well.”
 
+```kotlin
 fun beginBattle(
   firstRobot: Robot,
   secondRobot: Robot,
@@ -147,6 +150,7 @@ fun beginBattle(
   winner = if (firstRobot.isAlive) firstRobot else secondRobot
   winner.onBattleEnded()
 }
+```
 
 
 

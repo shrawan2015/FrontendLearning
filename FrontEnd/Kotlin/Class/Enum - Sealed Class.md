@@ -5,22 +5,22 @@ Sealed classes are useful when you want to make sure that the values of a given 
 
 “Add a sealed class Shape that has subtypes Circle and Square:”
 
-```
-“sealed class Shape {
+```kotlin
+sealed class Shape {
   class Circle(val radius: Int): Shape()
   class Square(val sideLength: Int): Shape()
-}”
+}
 
-“val circle1 = Shape.Circle(4)
+val circle1 = Shape.Circle(4)
 val circle2 = Shape.Circle(2)
 val square1 = Shape.Square(4)
 val square2 = Shape.Square(2)”
 ```
 
 “You’re able to make as many Circles and Squares as you like, but no Shapes.”
-```
+```kotlin
 
-“fun size(shape: Shape): Int {
+fun size(shape: Shape): Int {
   return when (shape) {
     is Shape.Circle -> shape.radius
     is Shape.Square -> shape.sideLength
@@ -33,7 +33,7 @@ size(square2) // sideLength of 2”
 ```
 
 
-```
+```kotlin
 enum class DayOfTheWeek {
 
 companion object {
@@ -63,7 +63,7 @@ The ordinal property of each case gives that case’s index in the list of decla
 
 The name property of each case takes the name of the case in code and gives back the String value of that name.”
 
-```
+```kotlin
 val notADay = DayOfTheWeek.valueOf("Blernsday")
 println("Not a day: $notADay")”
 “Exception in thread "main" java.lang.IllegalArgumentException: No enum constant DayOfTheWeek.Blernsday
@@ -73,13 +73,15 @@ println("Not a day: $notADay")”
 ```
 
 
-enum classes can have properties and functions”
+enum classes can have properties and functions
 
 enum class DayOfTheWeek(val isWeekend: Boolean)
-enum class DayOfTheWeek(val isWeekend: Boolean = false)
+enum class DayOfTheWeek(val isWeekend: Boolean = false)`
 
 
-```
+```kotlin
+
+
 val today = DayOfTheWeek.today()
 when (today) {
   DayOfTheWeek.Monday -> println("I don't care if $today's blue")
@@ -106,12 +108,15 @@ when (today) {
 - “You can’t make direct subclasses of a sealed class outside of the file where it’s declared, and the constructors of sealed classes are always private.
 - You can create indirect subclasses (such as inheriting from one of the subclasses of your sealed class) outside the file where they’re declared, but because of the restrictions above, this usually doesn’t end up working very well.”
 
+```kotlin
 
 sealed class AcceptedCurrency {
   class Dollar: AcceptedCurrency()
   class Euro: AcceptedCurrency()
   class Crypto: AcceptedCurrency()
 }
+
+```
 
 
 ## “Enumeration as state machine”

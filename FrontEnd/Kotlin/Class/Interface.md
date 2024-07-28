@@ -1,18 +1,23 @@
 
 
-Interfaces aren’t anything you instantiate directly. Instead, they define a blueprint of behavior that concrete types conform to. 
+**Interfaces aren’t anything you instantiate directly. Instead, they define a blueprint of behavior that concrete types conform to.**
 
-With an interface, you define a common set of properties and behaviors that concrete types go and implement. The primary difference between interfaces and other custom types is that interfaces themselves cannot contain state.”
+- With an **interface**, you define a common set of properties and behaviours that concrete types go and implement. 
+- The primary difference between interfaces and other custom types is that interfaces themselves cannot contain state.
+
+```KOTLIN
 
 interface Vehicle {
   fun accelerate()
   fun stop()
 }
+```
 
 
-An interface can be implemented by a class or object, and when another type implements an interface, it’s required to define the methods and properties defined in the interface. Once a type implements all members of an interface, the type is said to conform to the interface.
 
+- An interface can be implemented by a class or object, and when another type implements an interface, it’s required to define the methods and properties defined in the interface. Once a type implements all members of an interface, the type is said to conform to the interface.
 
+```KOTLIN
 class Unicycle: Vehicle {
   var peddling = false
 
@@ -24,11 +29,13 @@ class Unicycle: Vehicle {
     peddling = false
   }
 }
+
+```
+
 “Here, you create a Unicycle that inherits from and conforms to Vehicle.”
 
-
-
-“enum class Direction {
+```kotlin
+enum class Direction {
   LEFT, RIGHT
 }
 
@@ -37,14 +44,18 @@ interface DirectionalVehicle {
   fun stop()
   fun turn(direction: Direction)
   fun description(): String
-}”
+}
 
-“Methods declared in interfaces can contain default parameters, just like methods declared in classes and top-level functions. Add this class as an example:”
+```
 
-“interface OptionalDirectionalVehicle {
+
+- Methods declared in interfaces can contain default parameters, just like methods declared in classes and top-level functions. Add this class as an example:
+
+```kotlin
+
+interface OptionalDirectionalVehicle {
   fun turn(direction: Direction = Direction.LEFT)
-}”
-
+}
 
 class OptionalDirection: OptionalDirectionalVehicle {
   override fun turn(direction: Direction) {
@@ -52,12 +63,16 @@ class OptionalDirection: OptionalDirectionalVehicle {
   }
 }
 
-### Notice that when you implement turn() you don’t need to repeat the default value of the direction parameter.
+
+```
+
+Notice that when you implement turn() you **don’t need to repeat the default value** of the direction parameter.
 
 
 ## Default method implementations
 
-```
+```kotlin
+
 interface SpaceVehicle {
   fun accelerate()
   // 1
@@ -72,10 +87,14 @@ class LightFreighter: SpaceVehicle {
     println("Proceed to hyperspace!")
   }
 }
+
+override fun showOff() = super<Clickable>.showOff()
+
 ```
 
 
-```
+```kotlin
+
 class Starship: SpaceVehicle {
   override fun accelerate() {
     println("Warp factor 9 please!")
@@ -89,10 +108,9 @@ class Starship: SpaceVehicle {
 ```
 
 
-### Properties in interfaces
+## Properties in interfaces
 
-
-```
+```kotlin
 interface VehicleProperties {
   val weight: Int // abstract
   val name: String
@@ -101,9 +119,10 @@ interface VehicleProperties {
 ```
 
 
-##Interfaces cannot themselves hold state## , as there are no backing fields to hold the data stored in an interface property. You must either let the property be abstract with no value, or give the property a default getter, like for name in VehicleProperties.
+**Interfaces cannot themselves hold state** , as there are no backing fields to hold the data stored in an interface property. You must either let the property be abstract with no value, or give the property a default getter, like for name in VehicleProperties.
 
-```
+```kotlin
+
 class Car: VehicleProperties {
   override val weight: Int = 1000
 }
@@ -115,6 +134,7 @@ class Tank: VehicleProperties {
   override val name: String
     get() = "Tank"
 }
+
 ```
 
 

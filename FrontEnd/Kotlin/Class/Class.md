@@ -1,4 +1,4 @@
-```
+```kotlin
 class Student(
   val firstName: String,
   val lastName: String,
@@ -21,6 +21,7 @@ val jane = Student(firstName = "Jane", lastName = "Appleseed")
 jane = Student(firstName = "John", lastName = "Appleseed")
 
 ```
+
 
 
 data class StudentData(
