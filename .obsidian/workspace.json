@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FrontEnd/Android/Fragment.md",
+                "file": "FrontEnd/Android/App deployment.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FrontEnd/Android/Fragment.md",
+                "file": "FrontEnd/Android/App deployment.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FrontEnd/Android/Fragment.md",
+                "file": "FrontEnd/Android/App deployment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FrontEnd/Android/Fragment.md"
+                "file": "FrontEnd/Android/App deployment.md"
               }
             }
           }
@@ -162,32 +162,32 @@
   },
   "active": "6ce5fe2ffb38da9d",
   "lastOpenFiles": [
+    "FrontEnd/Android/Android Build.md",
+    "FrontEnd/Android/Deep linking.md",
+    "FrontEnd/Android/Login Activity.md",
+    "FrontEnd/Kotlin/unit.md",
+    "FrontEnd/Kotlin/Static and Dynamic Dispatch.md",
+    "FrontEnd/Kotlin/Singleton.md",
+    "FrontEnd/Kotlin/Sealed Class.md",
+    "FrontEnd/Kotlin/Scope functions.md",
+    "FrontEnd/Kotlin/Object Expression.md",
+    "FrontEnd/Kotlin/Object.md",
+    "FrontEnd/Kotlin/Lazy.md",
+    "FrontEnd/Kotlin/lateinit.md",
+    "FrontEnd/Kotlin/Lambda expression.md",
+    "FrontEnd/Kotlin/Higher Order Expression.md",
+    "FrontEnd/Kotlin/Generics.md",
+    "FrontEnd/Kotlin/Fold & Reduce.md",
+    "FrontEnd/Kotlin/Extensions.md",
+    "FrontEnd/Kotlin/Exceptions.md",
+    "FrontEnd/Kotlin/Enum class.md",
+    "FrontEnd/Kotlin/Data class.md",
+    "FrontEnd/Kotlin/Coroutines.md",
+    "FrontEnd/Kotlin/Companion.md",
+    "FrontEnd/Kotlin/Closure.md",
+    "FrontEnd/Kotlin/Cast.md",
+    "FrontEnd/Android/Fragment.md",
     "FrontEnd/Android/Event Handling.md",
-    "FrontEnd/Android/Android Shortcut.md",
-    "FrontEnd/Android/Activity.md",
-    "DataStructure/LeetCode/Tree.md",
-    "DataStructure/LeetCode/Top 500 Questions.md",
-    "DataStructure/LeetCode/String.md",
-    "DataStructure/LeetCode/Sliding Window.md",
-    "DataStructure/LeetCode/Recursion.md",
-    "DataStructure/LeetCode/Linked List.md",
-    "DataStructure/LeetCode/Heap.md",
-    "DataStructure/LeetCode/Graph.md",
-    "DataStructure/LeetCode/Game.md",
-    "DataStructure/LeetCode/Dynamic Programming.md",
-    "DataStructure/LeetCode/Array.md",
-    "DataStructure/Concepts/Complexity.md",
-    "DataStructure/Concepts/Array.md",
-    "FrontEnd/iOS/App modularity.md",
-    "FrontEnd/iOS/Architecture IOS.md",
-    "FrontEnd/iOS/Design pattern swift.md",
-    "FrontEnd/iOS/MVVM App.md",
-    "FrontEnd/iOS/SwiftUI.md",
-    "FrontEnd/iOS/Modular code.md",
-    "FrontEnd/iOS/Scrollview.md",
-    "FrontEnd/iOS/Table view.md",
-    "FrontEnd/iOS/Storing Data.md",
-    "FrontEnd/iOS/App Lifecycle.md",
     "FrontEnd/ReactJS",
     "Backend/BackendDesign",
     "Backend/SystemDesign",
