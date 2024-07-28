@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FrontEnd/Swift/FunctionalProgramming.md",
+                "file": "FrontEnd/Android/Fragment.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FrontEnd/Swift/FunctionalProgramming.md",
+                "file": "FrontEnd/Android/Fragment.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FrontEnd/Swift/FunctionalProgramming.md",
+                "file": "FrontEnd/Android/Fragment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FrontEnd/Swift/FunctionalProgramming.md"
+                "file": "FrontEnd/Android/Fragment.md"
               }
             }
           }
@@ -160,11 +160,34 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "38e4f4476539a396",
+  "active": "6ce5fe2ffb38da9d",
   "lastOpenFiles": [
-    "FrontEnd/Kotlin/Coroutines.md",
-    "FrontEnd/Swift/FunctionalProgramming.md",
-    "FrontEnd/Kotlin/unit.md",
+    "FrontEnd/Android/Event Handling.md",
+    "FrontEnd/Android/Android Shortcut.md",
+    "FrontEnd/Android/Activity.md",
+    "DataStructure/LeetCode/Tree.md",
+    "DataStructure/LeetCode/Top 500 Questions.md",
+    "DataStructure/LeetCode/String.md",
+    "DataStructure/LeetCode/Sliding Window.md",
+    "DataStructure/LeetCode/Recursion.md",
+    "DataStructure/LeetCode/Linked List.md",
+    "DataStructure/LeetCode/Heap.md",
+    "DataStructure/LeetCode/Graph.md",
+    "DataStructure/LeetCode/Game.md",
+    "DataStructure/LeetCode/Dynamic Programming.md",
+    "DataStructure/LeetCode/Array.md",
+    "DataStructure/Concepts/Complexity.md",
+    "DataStructure/Concepts/Array.md",
+    "FrontEnd/iOS/App modularity.md",
+    "FrontEnd/iOS/Architecture IOS.md",
+    "FrontEnd/iOS/Design pattern swift.md",
+    "FrontEnd/iOS/MVVM App.md",
+    "FrontEnd/iOS/SwiftUI.md",
+    "FrontEnd/iOS/Modular code.md",
+    "FrontEnd/iOS/Scrollview.md",
+    "FrontEnd/iOS/Table view.md",
+    "FrontEnd/iOS/Storing Data.md",
+    "FrontEnd/iOS/App Lifecycle.md",
     "FrontEnd/ReactJS",
     "Backend/BackendDesign",
     "Backend/SystemDesign",
@@ -173,30 +196,7 @@
     "DataStructure",
     "Backend",
     "FrontEnd",
-    "FrontEnd/Kotlin/Static and Dynamic Dispatch.md",
-    "FrontEnd/Kotlin/Singleton.md",
-    "FrontEnd/Kotlin/Sealed Class.md",
-    "FrontEnd/Kotlin/Scope functions.md",
-    "FrontEnd/Kotlin/Properties.md",
-    "FrontEnd/Kotlin/Object Expression.md",
-    "FrontEnd/Kotlin/Object.md",
-    "FrontEnd/Kotlin/Lazy.md",
-    "FrontEnd/Kotlin/lateinit.md",
-    "DataStructure/LeetCode/Recursion.md",
-    "DataStructure/LeetCode/Linked List.md",
-    "DataStructure/LeetCode/Heap.md",
-    "DataStructure/LeetCode/Graph.md",
-    "DataStructure/LeetCode/Game.md",
-    "DataStructure/LeetCode/Dynamic Programming.md",
-    "DataStructure/LeetCode/Array.md",
     "Pasted image 20240726212355.png",
-    "FrontEnd/Kotlin/Kotlin Interview Questions.md",
-    "FrontEnd/Kotlin/Class/Interface.md",
-    "FrontEnd/Kotlin/Class/Inheritance.md",
-    "FrontEnd/Kotlin/Class/Enum - Sealed Class.md",
-    "FrontEnd/Kotlin/Class/Constructors.md",
-    "FrontEnd/Kotlin/Class/Class.md",
-    "FrontEnd/Kotlin/Class/Abstract Class.md",
     "Untitled.canvas",
     "DataStructure/Concepts",
     "DataStructure/LeetCode",
