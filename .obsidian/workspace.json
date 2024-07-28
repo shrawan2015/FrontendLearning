@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6ce5fe2ffb38da9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FrontEnd/Swift/FunctionalProgramming.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FrontEnd/Kotlin/Coroutines.md",
+                "file": "FrontEnd/Swift/FunctionalProgramming.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FrontEnd/Kotlin/Coroutines.md",
+                "file": "FrontEnd/Swift/FunctionalProgramming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FrontEnd/Kotlin/Coroutines.md"
+                "file": "FrontEnd/Swift/FunctionalProgramming.md"
               }
             }
           }
@@ -147,8 +160,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8d0f8bbe164db4c6",
+  "active": "38e4f4476539a396",
   "lastOpenFiles": [
+    "FrontEnd/Kotlin/Coroutines.md",
+    "FrontEnd/Swift/FunctionalProgramming.md",
     "FrontEnd/Kotlin/unit.md",
     "FrontEnd/ReactJS",
     "Backend/BackendDesign",
@@ -182,8 +197,6 @@
     "FrontEnd/Kotlin/Class/Constructors.md",
     "FrontEnd/Kotlin/Class/Class.md",
     "FrontEnd/Kotlin/Class/Abstract Class.md",
-    "FrontEnd/System Design/Microservice.md",
-    "FrontEnd/System Design/Polling.md",
     "Untitled.canvas",
     "DataStructure/Concepts",
     "DataStructure/LeetCode",
