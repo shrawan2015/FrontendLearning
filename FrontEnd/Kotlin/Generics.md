@@ -1,4 +1,5 @@
 
+fun <T> simplePair(x: T, y: T) = Pair(x, y)
 
 “interface List<out E> : Collection<E>”
 

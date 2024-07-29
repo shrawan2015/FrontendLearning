@@ -1,4 +1,4 @@
- It is similar to normal functions. Unlike normal functions,`**there is no function name**`. It is defined directly with the `**“fun”**` keyword.
+ It is similar to normal functions. Unlike normal functions, **there is no function name**. It is defined directly with the **fun** keyword.
 
 ```kotlin
 val anonymousFunc = fun(number1:Int, number2:Int) : Int = number1 + number2  
@@ -70,14 +70,14 @@ Notes:
 
 Ref:
 
-https://medium.com/huawei-developers/kotlin-lambda-expressions-kotlin-anonymous-functions-example-tutorial-88a4b622f8b9
-https://www.scaler.com/topics/kotlin/lambda-expression-and-anonymous-functions-in-kotlin/
-https://tugce-aras.medium.com/lambda-expression-and-anonymous-function-in-kotlin-53bf408b5699
-https://medium.com/@s.badamestani/lambda-in-kotlin-a6fc055a2c88
-https://medium.com/@chaewonkong/exploring-anonymous-functions-in-kotlin-f211919432f
-https://medium.com/huawei-developers/kotlin-higher-order-functions-and-lambda-expressions-b799b42e8158
-https://kotlinlang.org/docs/lambdas.html#anonymous-functions
-https://stackoverflow.com/questions/47110879/kotlin-when-and-how-should-one-use-lambda-expressions
+- https://medium.com/huawei-developers/kotlin-lambda-expressions-kotlin-anonymous-functions-example-tutorial-88a4b622f8b9
+- https://www.scaler.com/topics/kotlin/lambda-expression-and-anonymous-functions-in-kotlin/
+- https://tugce-aras.medium.com/lambda-expression-and-anonymous-function-in-kotlin-53bf408b5699
+- https://medium.com/@s.badamestani/lambda-in-kotlin-a6fc055a2c88
+- https://medium.com/@chaewonkong/exploring-anonymous-functions-in-kotlin-f211919432f
+- https://medium.com/huawei-developers/kotlin-higher-order-functions-and-lambda-expressions-b799b42e8158
+- https://kotlinlang.org/docs/lambdas.html#anonymous-functions
+- https://stackoverflow.com/questions/47110879/kotlin-when-and-how-should-one-use-lambda-expressions
 
 Inline functions
 noinline
