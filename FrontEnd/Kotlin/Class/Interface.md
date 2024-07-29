@@ -4,12 +4,30 @@
 
 - With an **interface**, you define a common set of properties and behaviours that concrete types go and implement. 
 - The primary difference between interfaces and other custom types is that interfaces themselves cannot contain state.
+- However, unlike interfaces, abstract classes can contain state.
 
 ```KOTLIN
 
 interface Vehicle {
   fun accelerate()
   fun stop()
+}
+
+abstract class Moveable {
+    private var x: Int = 0
+    private var y: Int = 0
+
+// the move method is not marked with the open keyword, which means that subclasses cannot override it.
+    fun move(x: Int, y: Int) {
+        this.x = x
+		this.y = y 
+	}
+
+	// By marking the method as open, you indicate that it is designed to be overridden, providing sub- classes with the flexibility to change its implementation.
+	 open fun move2(x: Int, y: Int) {
+        ...
+
+}
 }
 ```
 

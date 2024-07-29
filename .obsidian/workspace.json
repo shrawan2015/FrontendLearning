@@ -23,11 +23,9 @@
             "id": "6ce5fe2ffb38da9d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "FrontEnd/Kotlin/unit.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20240728192357.png"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FrontEnd/Kotlin/unit.md",
+                "file": "Pasted image 20240728192357.png",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FrontEnd/Kotlin/unit.md",
+                "file": "Pasted image 20240728192357.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FrontEnd/Kotlin/unit.md"
+                "file": "Pasted image 20240728192357.png"
               }
             }
           }
@@ -160,8 +158,31 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6ce5fe2ffb38da9d",
+  "active": "38e4f4476539a396",
   "lastOpenFiles": [
+    "FrontEnd/Books/KotlinProject/gradlew.bat",
+    "FrontEnd/Books/KotlinProject/gradle.properties",
+    "FrontEnd/Books/KotlinProject/settings.gradle.kts",
+    "FrontEnd/Books/KotlinProject/build.gradle.kts",
+    "FrontEnd/Books/KotlinProject/gradlew",
+    "FrontEnd/Books/KotlinProject/gradle/wrapper/gradle-wrapper.properties",
+    "FrontEnd/Books/KotlinProject/gradle/wrapper/gradle-wrapper.jar",
+    "FrontEnd/Books/KotlinProject/gradle/wrapper",
+    "FrontEnd/Books/KotlinProject/gradle/libs.versions.toml",
+    "FrontEnd/Books/KotlinProject/gradle",
+    "FrontEnd/Books/KotlinProject/local.properties",
+    "FrontEnd/Books/KotlinProject/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp",
+    "FrontEnd/Books/KotlinProject/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp",
+    "FrontEnd/Books/KotlinProject/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp",
+    "FrontEnd/Books/KotlinProject/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp",
+    "FrontEnd/Books/KotlinProject/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp",
+    "FrontEnd/Books/KotlinProject/app/src/main/res/mipmap-xhdpi/ic_launcher.webp",
+    "FrontEnd/Books/KotlinProject/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp",
+    "FrontEnd/Books/KotlinProject/app/src/main/res/mipmap-mdpi/ic_launcher.webp",
+    "FrontEnd/Books/KotlinProject/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp",
+    "FrontEnd/Books/KotlinProject/app/src/main/res/mipmap-hdpi/ic_launcher.webp",
+    "FrontEnd/Kotlin/Class/Interface.md",
+    "FrontEnd/Kotlin/unit.md",
     "FrontEnd/Kotlin/Static and Dynamic Dispatch.md",
     "FrontEnd/Kotlin/Singleton.md",
     "FrontEnd/Kotlin/Sealed Class.md",
@@ -185,24 +206,7 @@
     "FrontEnd/Kotlin/Delegation.md",
     "FrontEnd/Kotlin/Enum class.md",
     "FrontEnd/Kotlin/Companion.md",
-    "FrontEnd/Kotlin/Collections.md",
-    "FrontEnd/Kotlin/Closure.md",
-    "FrontEnd/Kotlin/Cast.md",
-    "Pasted image 20240728202725.png",
-    "Pasted image 20240728192637.png",
-    "Pasted image 20240728192357.png",
-    "FrontEnd/ReactJS",
-    "Backend/BackendDesign",
-    "Backend/SystemDesign",
-    "Backend/AWS",
-    "Backend/NodeJS",
-    "DataStructure",
-    "Backend",
-    "FrontEnd",
-    "Pasted image 20240726212355.png",
     "Untitled.canvas",
-    "DataStructure/Concepts",
-    "DataStructure/LeetCode",
     "Untitled 1.canvas"
   ]
 }
