@@ -158,8 +158,10 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "38e4f4476539a396",
+  "active": "6ce5fe2ffb38da9d",
   "lastOpenFiles": [
+    "FrontEnd/Books/[Head first series] Griffiths, Dawn_Griffiths, David - Head first Kotlin_ a brain-friendly guide (2019, O'Reilly Media) - libgen.li.pdf",
+    "Pasted image 20240728192357.png",
     "FrontEnd/Books/KotlinProject/gradlew.bat",
     "FrontEnd/Books/KotlinProject/gradle.properties",
     "FrontEnd/Books/KotlinProject/settings.gradle.kts",
@@ -170,7 +172,6 @@
     "FrontEnd/Books/KotlinProject/gradle/wrapper",
     "FrontEnd/Books/KotlinProject/gradle/libs.versions.toml",
     "FrontEnd/Books/KotlinProject/gradle",
-    "FrontEnd/Books/KotlinProject/local.properties",
     "FrontEnd/Books/KotlinProject/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp",
     "FrontEnd/Books/KotlinProject/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp",
     "FrontEnd/Books/KotlinProject/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp",
@@ -180,7 +181,6 @@
     "FrontEnd/Books/KotlinProject/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp",
     "FrontEnd/Books/KotlinProject/app/src/main/res/mipmap-mdpi/ic_launcher.webp",
     "FrontEnd/Books/KotlinProject/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp",
-    "FrontEnd/Books/KotlinProject/app/src/main/res/mipmap-hdpi/ic_launcher.webp",
     "FrontEnd/Kotlin/Class/Interface.md",
     "FrontEnd/Kotlin/unit.md",
     "FrontEnd/Kotlin/Static and Dynamic Dispatch.md",
