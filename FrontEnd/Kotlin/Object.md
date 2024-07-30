@@ -1,6 +1,8 @@
 
 “Kotlin uses object to denote a custom type that can only have a single instance.”
 
+The `object` keyword in Kotlin serves the purpose of defining a singleton object, which is a class that has only one instance. It facilitates the creation of a global point of access to that instance.
+
 “The name choice for the object keyword can sometimes lead to confusion with class instances, since they’re also called objects. As you’ll see in this chapter, you can also use object to create anonymous objects, for which a new instance is created each time the anonymous object is used, another potential source of confusion
 
 “In discussing your code, you’ll often have to rely on the context to determine whether an “object” is a class instance, the single instance of an entity created using object or an anonymous object.
@@ -71,3 +73,33 @@ Comparison to classes
 - Objects can have properties and member functions.
 - Properties of the object must be initialized before use, either at declaration or in an init block.
 - Objects can inherit from classes and implement interfaces.”
+
+
+
+# 6. What is a companion object, and how is it related to the `object` keyword?
+
+A companion object is a special kind of object associated with a class. It is defined using the `companion object` syntax inside a class. The companion object is accessible using the class name and can hold properties and methods shared across all instances of the class.
+```kotlin
+
+class MyClass {  
+companion object {  
+// Properties and methods of the companion object  
+}  
+}
+```
+
+
+# 9. Can you inherit from an object in Kotlin?
+
+No, objects in Kotlin cannot be inherited or extended. They are implicitly final, and their structure cannot be altered.
+
+# 8. Are objects thread-safe in Kotlin?
+
+Yes, objects in Kotlin are thread-safe by default. The single instance is created in a thread-safe manner during lazy initialization, preventing issues related to concurrent access.
+
+
+Ref:
+
+https://medium.com/@husayn.fakher/the-object-keyword-in-kotlin-10-questions-answered-c39b70e67261
+
+https://medium.com/@husayn.fakher

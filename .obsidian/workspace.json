@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FrontEnd/Kotlin/Untitled.md",
+                "file": "FrontEnd/Kotlin/Annotation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FrontEnd/Kotlin/Untitled.md",
+                "file": "FrontEnd/Kotlin/Annotation.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FrontEnd/Kotlin/Untitled.md",
+                "file": "FrontEnd/Kotlin/Annotation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FrontEnd/Kotlin/Untitled.md"
+                "file": "FrontEnd/Kotlin/Annotation.md"
               }
             }
           }
@@ -149,32 +149,32 @@
   },
   "active": "8d0f8bbe164db4c6",
   "lastOpenFiles": [
+    "FrontEnd/Kotlin/Class/Interface.md",
+    "FrontEnd/Kotlin/Class/Inheritance.md",
+    "FrontEnd/Kotlin/Class/Enum - Sealed Class.md",
+    "FrontEnd/Kotlin/Class/Constructors.md",
+    "FrontEnd/Kotlin/Class/Class.md",
+    "FrontEnd/Kotlin/Class/Abstract Class.md",
+    "FrontEnd/Kotlin/Cast.md",
+    "FrontEnd/Kotlin/Anonymous functions.md",
+    "FrontEnd/Kotlin/Annotation.md",
+    "FrontEnd/Swift/FunctionalProgramming.md",
+    "FrontEnd/Kotlin/Delegation.md",
+    "FrontEnd/Kotlin/Delegates.md",
+    "FrontEnd/Kotlin/Data class.md",
+    "FrontEnd/Kotlin/Coroutines.md",
+    "FrontEnd/Kotlin/Collections.md",
+    "FrontEnd/Kotlin/Closure.md",
+    "FrontEnd/System Design/Modular Project.md",
+    "FrontEnd/System Design/Build Whatsapp Frontend.md",
+    "FrontEnd/System Design/Build Twitter Feed Frontend.md",
+    "FrontEnd/Kotlin/Object.md",
+    "FrontEnd/Kotlin/Companion.md",
+    "FrontEnd/Kotlin/Untitled.md",
     "FrontEnd/Kotlin/unit.md",
     "FrontEnd/Kotlin/Static and Dynamic Dispatch.md",
     "FrontEnd/Kotlin/Receiver.md",
     "FrontEnd/Kotlin/Method.md",
-    "FrontEnd/Kotlin/Lazy.md",
-    "FrontEnd/Kotlin/lateinit.md",
-    "FrontEnd/Kotlin/Object Expression.md",
-    "FrontEnd/Kotlin/Lambda expression.md",
-    "FrontEnd/Kotlin/Lambda.md",
-    "FrontEnd/Kotlin/Kotlin Interview Questions.md",
-    "FrontEnd/Kotlin/Inline Function.md",
-    "FrontEnd/Kotlin/Infix.md",
-    "FrontEnd/Kotlin/Higher Order Expression.md",
-    "FrontEnd/Kotlin/Generics.md",
-    "FrontEnd/Kotlin/functional programming.md",
-    "FrontEnd/Kotlin/Function.md",
-    "FrontEnd/Kotlin/Fold & Reduce.md",
-    "FrontEnd/Kotlin/Field properties.md",
-    "FrontEnd/Kotlin/Extensions.md",
-    "FrontEnd/Kotlin/Exceptions.md",
-    "FrontEnd/Kotlin/Enum class.md",
-    "FrontEnd/Kotlin/Delegates.md",
-    "FrontEnd/Kotlin/Data class.md",
-    "FrontEnd/Kotlin/Coroutines.md",
-    "FrontEnd/Kotlin/Companion objects and Static members.md",
-    "FrontEnd/Kotlin/Companion.md",
     "Pasted image 20240728192357.png",
     "FrontEnd/Books/[Head first series] Griffiths, Dawn_Griffiths, David - Head first Kotlin_ a brain-friendly guide (2019, O'Reilly Media) - libgen.li.pdf",
     "FrontEnd/Books/KotlinProject/gradlew.bat",

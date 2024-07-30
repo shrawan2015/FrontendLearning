@@ -3,6 +3,7 @@
 - It can be used to define static methods and properties for the class. For example, the following code defines a companion object for the MyClass class, with a static method “myStaticMethod”:
 - `companion object` is a special type of object that is associated with a class rather than an instance of the class. It's similar to static members in other programming languages, but with some added functionality.
 - companion objects are unique because they allow you to define members that can be called on the class itself rather than on instances of the class.
+- companion objects are singleton objects whose properties and functions are tied to a class but _not_ to the instance of that class — basically like the “static” keyword in Java but with a twist.
 
 ```kotlin
 class MyClass {   
@@ -212,8 +213,39 @@ MyClass.greet() // Output: Hello from MyClass!
 MyClass.farewell() // Output: Goodbye from MyClass!
 ```
 
+```kotlin
 
+data class BirthDate(val value: LocalDate) {
+    init {
+        require(value.isBefore(LocalDate.now()))
+    }
+
+    companion object {
+        private val format = ISO_ORDINAL_DATE
+        fun parse(unchecked: String): BirthDate = BirthDate(LocalDate.parse(unchecked, format))
+        fun show(date: BirthDate): String = format.format(date.value)
+    }
+}
+
+val birth = BirthDate.parse("1976-244")
+val string = BirthDate.show(birth) // prints "1976-244"
+
+
+
+data class BirthDate private constructor(val value: LocalDate) {
+    companion object {
+        fun asResult(unchecked: LocalDate) = when {
+            unchecked.isBefore(LocalDate.now()) -> Success(BirthDate(unchecked))
+            else -> Failure("illegal date!")
+        }
+    }
+}
+
+val birth: Result<BirthDate, String> = BirthDate.asResult(LocalDate.of(1999, 12, 31))
+```
 Ref:
 
 - https://medium.com/@mobiledev4you/companion-object-in-kotlin-c3a1203cd63c
 - https://medium.com/@riztech.dev/understanding-companion-objects-in-kotlin-a93f1a5880a7#:~:text=Example%3A%20Using%20Companion%20Object%20for%20Factory%20Method&text=In%20this%20example%2C%20the%20User,to%20create%20instances%20of%20User%20.
+- https://medium.com/swlh/kotlin-basics-of-companion-objects-a8422c96779b
+- https://medium.com/google-developer-experts/companion-objects-kotlins-most-unassuming-power-feature-fb5c0451fbd0
