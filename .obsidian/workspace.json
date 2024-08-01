@@ -11,9 +11,11 @@
             "id": "8d0f8bbe164db4c6",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Backend/Books/Carli M. - Functional Programming in Kotlin by Tutorials (1st Edition) - 2022.pdf"
+                "file": "FrontEnd/System Design/App Size.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Backend/Books/Carli M. - Functional Programming in Kotlin by Tutorials (1st Edition) - 2022.pdf",
+                "file": "FrontEnd/System Design/App Size.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Backend/Books/Carli M. - Functional Programming in Kotlin by Tutorials (1st Edition) - 2022.pdf",
+                "file": "FrontEnd/System Design/App Size.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Backend/Books/Carli M. - Functional Programming in Kotlin by Tutorials (1st Edition) - 2022.pdf"
+                "file": "FrontEnd/System Design/App Size.md"
               }
             }
           }
@@ -145,8 +147,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "38e4f4476539a396",
+  "active": "8d0f8bbe164db4c6",
   "lastOpenFiles": [
+    "Backend/Books/Carli M. - Functional Programming in Kotlin by Tutorials (1st Edition) - 2022.pdf",
     "Backend/Books/Dave Leeds - Kotlin_ An Illustrated Guide - The fun way to learn Kotlin programming, one concept at a time!-Independently Published (2024).pdf",
     "Backend/Books/Wangereka Harun - Mastering Kotlin for Android 14 - 2024.pdf",
     "Backend/Books/Soshin Alexey - Kotlin Design Patterns and Best Practices, 3rd Edition (Expert insight) - 2024.pdf",
@@ -154,7 +157,6 @@
     "Backend/Books/Prasad P., Buketa D. - Jetpack Compose by Tutorials (2nd Edition) - 2023.pdf",
     "Backend/Books/Aigner S. Kotlin in Action 2ed 2024.pdf",
     "FrontEnd/System Design/App Size.md",
-    "Backend/Books/Carli M. - Functional Programming in Kotlin by Tutorials (1st Edition) - 2022.pdf",
     "Backend/Books",
     "FrontEnd/Swift/FunctionalProgramming.md",
     "FrontEnd/Kotlin/Static and Dynamic Dispatch.md",
