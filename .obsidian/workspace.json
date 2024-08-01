@@ -11,11 +11,9 @@
             "id": "8d0f8bbe164db4c6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "FrontEnd/Kotlin/Annotation.md",
-                "mode": "source",
-                "source": false
+                "file": "Backend/Books/Carli M. - Functional Programming in Kotlin by Tutorials (1st Edition) - 2022.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FrontEnd/Kotlin/Annotation.md",
+                "file": "Backend/Books/Carli M. - Functional Programming in Kotlin by Tutorials (1st Edition) - 2022.pdf",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FrontEnd/Kotlin/Annotation.md",
+                "file": "Backend/Books/Carli M. - Functional Programming in Kotlin by Tutorials (1st Edition) - 2022.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FrontEnd/Kotlin/Annotation.md"
+                "file": "Backend/Books/Carli M. - Functional Programming in Kotlin by Tutorials (1st Edition) - 2022.pdf"
               }
             }
           }
@@ -147,45 +145,45 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8d0f8bbe164db4c6",
+  "active": "38e4f4476539a396",
   "lastOpenFiles": [
-    "FrontEnd/Kotlin/Class/Interface.md",
-    "FrontEnd/Kotlin/Class/Inheritance.md",
-    "FrontEnd/Kotlin/Class/Enum - Sealed Class.md",
-    "FrontEnd/Kotlin/Class/Constructors.md",
-    "FrontEnd/Kotlin/Class/Class.md",
-    "FrontEnd/Kotlin/Class/Abstract Class.md",
-    "FrontEnd/Kotlin/Cast.md",
-    "FrontEnd/Kotlin/Anonymous functions.md",
-    "FrontEnd/Kotlin/Annotation.md",
+    "Backend/Books/Dave Leeds - Kotlin_ An Illustrated Guide - The fun way to learn Kotlin programming, one concept at a time!-Independently Published (2024).pdf",
+    "Backend/Books/Wangereka Harun - Mastering Kotlin for Android 14 - 2024.pdf",
+    "Backend/Books/Soshin Alexey - Kotlin Design Patterns and Best Practices, 3rd Edition (Expert insight) - 2024.pdf",
+    "Backend/Books/Soshin A. Kotlin Design Patterns and Best Practices...3ed 2024.pdf",
+    "Backend/Books/Prasad P., Buketa D. - Jetpack Compose by Tutorials (2nd Edition) - 2023.pdf",
+    "Backend/Books/Aigner S. Kotlin in Action 2ed 2024.pdf",
+    "FrontEnd/System Design/App Size.md",
+    "Backend/Books/Carli M. - Functional Programming in Kotlin by Tutorials (1st Edition) - 2022.pdf",
+    "Backend/Books",
     "FrontEnd/Swift/FunctionalProgramming.md",
-    "FrontEnd/Kotlin/Delegation.md",
-    "FrontEnd/Kotlin/Delegates.md",
-    "FrontEnd/Kotlin/Data class.md",
-    "FrontEnd/Kotlin/Coroutines.md",
-    "FrontEnd/Kotlin/Collections.md",
-    "FrontEnd/Kotlin/Closure.md",
-    "FrontEnd/System Design/Modular Project.md",
-    "FrontEnd/System Design/Build Whatsapp Frontend.md",
-    "FrontEnd/System Design/Build Twitter Feed Frontend.md",
-    "FrontEnd/Kotlin/Object.md",
-    "FrontEnd/Kotlin/Companion.md",
+    "FrontEnd/Kotlin/Static and Dynamic Dispatch.md",
+    "FrontEnd/Kotlin/Singleton.md",
+    "FrontEnd/Kotlin/Sealed Class.md",
+    "FrontEnd/Kotlin/Generics.md",
+    "FrontEnd/Kotlin/Functional programming.md",
     "FrontEnd/Kotlin/Untitled.md",
     "FrontEnd/Kotlin/unit.md",
-    "FrontEnd/Kotlin/Static and Dynamic Dispatch.md",
-    "FrontEnd/Kotlin/Receiver.md",
-    "FrontEnd/Kotlin/Method.md",
+    "FrontEnd/Kotlin/Annotation.md",
+    "FrontEnd/Kotlin/Class/Enum - Sealed Class.md",
+    "FrontEnd/Kotlin/Class/Constructors.md",
+    "FrontEnd/System Design/Polling.md",
+    "FrontEnd/System Design/Pagination.md",
+    "FrontEnd/System Design/Build Whatsapp Frontend.md",
+    "FrontEnd/System Design/Cache.md",
+    "FrontEnd/System Design/Chat application (e.g. Messenger).md",
+    "FrontEnd/System Design/Dynamic UI Amazon Flipkart.md",
+    "FrontEnd/System Design/GraphQL Frontend.md",
+    "FrontEnd/System Design/Live streaming IPL.md",
+    "FrontEnd/System Design/Modular Project.md",
+    "FrontEnd/System Design/Build Twitter Feed Frontend.md",
+    "FrontEnd/System Design/Websocket.md",
+    "FrontEnd/System Design/Secure.md",
+    "FrontEnd/System Design/Real Time comments.md",
     "Pasted image 20240728192357.png",
     "FrontEnd/Books/[Head first series] Griffiths, Dawn_Griffiths, David - Head first Kotlin_ a brain-friendly guide (2019, O'Reilly Media) - libgen.li.pdf",
     "FrontEnd/Books/KotlinProject/gradlew.bat",
     "FrontEnd/Books/KotlinProject/gradle.properties",
-    "FrontEnd/Books/KotlinProject/settings.gradle.kts",
-    "FrontEnd/Books/KotlinProject/build.gradle.kts",
-    "FrontEnd/Books/KotlinProject/gradlew",
-    "FrontEnd/Books/KotlinProject/gradle/wrapper/gradle-wrapper.properties",
-    "FrontEnd/Books/KotlinProject/gradle/wrapper/gradle-wrapper.jar",
-    "FrontEnd/Books/KotlinProject/gradle/wrapper",
-    "FrontEnd/Books/KotlinProject/gradle/libs.versions.toml",
     "FrontEnd/Books/KotlinProject/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp",
     "FrontEnd/Books/KotlinProject/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp",
     "FrontEnd/Books/KotlinProject/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp",

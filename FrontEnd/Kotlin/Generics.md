@@ -1,19 +1,25 @@
 
+```KOTLIN
 fun <T> simplePair(x: T, y: T) = Pair(x, y)
 
-“interface List<out E> : Collection<E>”
+interface List<out E> : Collection<E>
 
 
-“fun List<String>.toBulletedList(): String {
+fun List<String>.toBulletedList(): String {
   val separator = "\n - "
   return this.map { "$it" }.joinToString(separator, prefix = separator, postfix = "\n")
-}”
+}
+
+
+```
+
+
 
 
 “Creating your own generic constraints”
 
-```
-“// 1
+```KOTLIN
+// 1
 class Mover<T>(
     // 2
     thingsToMove: List<T>,
@@ -56,13 +62,21 @@ class Mover<T>(
 ```
 
 
-“interface Checkable {
+```KOTLIN
+
+interface Checkable {
   fun checkIsOK(): Boolean
-}”
-“class Mover<T: Checkable>”
-“This updated constraint means that attempting to create a Mover with a class that does not conform to Checkable will fail at compile time. Before continuing, add one more private var to the Mover class below the other three to hold things that fail the check:”
+}
+class Mover<T: Checkable>
+
+This updated constraint means that attempting to create a Mover with a class that does not conform to Checkable will fail at compile time. Before continuing, add one more private var to the Mover class below the other three to hold things that fail the check:
 
 
+```
+
+
+
+```KOTLIN
 “interface Container<T> {
   // 2
   fun canAddAnotherItem(): Boolean
@@ -76,7 +90,5 @@ class Mover<T>(
   fun contents(): List<T>
 }”
 
-Excerpt From
-Kotlin Apprentice
-By Irina Galata
-This material may be protected by copyright.
+```
+

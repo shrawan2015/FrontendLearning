@@ -73,14 +73,13 @@ println("Not a day: $notADay")”
 ```
 
 
-enum classes can have properties and functions
-
-enum class DayOfTheWeek(val isWeekend: Boolean)
-enum class DayOfTheWeek(val isWeekend: Boolean = false)`
 
 
 ```kotlin
 
+enum classes can have properties and functions
+enum class DayOfTheWeek(val isWeekend: Boolean)
+enum class DayOfTheWeek(val isWeekend: Boolean = false)`
 
 val today = DayOfTheWeek.today()
 when (today) {

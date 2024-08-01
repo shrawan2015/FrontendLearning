@@ -15,6 +15,6 @@ _Unit_ is a type in Kotlin, like _Boolean_ and _String,_ for example, but t
 In general, _Unit_ is used when you would use _void_ in Java. For example, the following Kotlin code:
 
 
-|   |
-|---|
-|fun sample(){} // i.e fun sample(): Unit {}|
+
+fun sample(){} 
+i.e fun sample(): Unit {}|

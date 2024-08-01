@@ -107,15 +107,15 @@
  108. What are _scoped functions_ and when to use which?
  109. What does the keyword “_infix_” do?
  110. What is _Covariance_ and _Contravariance_ in Kotlin?
- 111. ##### - lateinit vs lazy
- 112. #####  Context switching in coroutines
- 113. ##### Parallel API calling with coroutines
- 114. ##### What is coroutines context?
- 115. ##### -Sharedflow vs Stateflow
- 116. #####  How to cancel a coroutines?
- 117.  ##### Explain type inference in Kotlin.
- 118.  ##### Explain the concept of smart casts in Kotlin
- 119.  ##### Difference between a list and an array in Kotlin?
+ 111.  lateinit vs lazy
+ 112.  Context switching in coroutines
+ 113.  Parallel API calling with coroutines
+ 114.  What is coroutines context?
+ 115. Sharedflow vs Stateflow
+ 116.  How to cancel a coroutines?
+ 117.   Explain type inference in Kotlin.
+ 118.  Explain the concept of smart casts in Kotlin
+ 119.  Difference between a list and an array in Kotlin?
  120. Define functions in Kotlin.  
  121. What are default arguments in Kotlin functions?  
  122. Explain named arguments in Kotlin functions.  
@@ -166,16 +166,17 @@
  167. Explain Kotlin’s approach to resource management in exception handling.  
  168. What is the `Nothing` type in Kotlin, and how is it used in exception handling?  
  169. Discuss best practices for exception handling in Kotlin.
- 170. #### What is the use of @JvmStatic, @JvmOverloads, and @JvmFiled in Kotlin?
- 171. #### Can we use primitive types such as int, double, float in Kotlin?
- 172. #### How to check if a lateinit variable has been initialized or not?
- 173. #### Is there any relationship between primary and secondary constructors
- 174. ####  Explain the use-case of let, run, with, also, apply in Kotlin.
- 175. #### What are labels in Kotlin?
+ 170. What is the use of @JvmStatic, @JvmOverloads, and @JvmFiled in Kotlin?
+ 171. Can we use primitive types such as int, double, float in Kotlin?
+ 172. How to check if a lateinit variable has been initialized or not?
+ 173. Is there any relationship between primary and secondary constructors
+ 174. Explain the use-case of let, run, with, also, apply in Kotlin.
+ 175. What are labels in Kotlin?
  176. Is a `List` in Kotlin an immutable collection?
  177. What is difference between `fold` and `reduce`?
  178. What is difference between `Collections` and `Sequences`?
- 179. ##### val vs const
+ 179. val vs const
+43. 
 ##### - Data class :
   ##### - data class A{
   ##### - }
@@ -186,33 +187,32 @@
   ##### - print a === b
 
 ##### - ```
-https://shirsh94.medium.com/top-100-kotlin-interview-questions-and-answers-d1f6785f336a**
-https://shirsh94.medium.com/top-100-kotlin-interview-questions-and-answers-d1f6785f336a
-https://medium.com/@mmlilla90/kotlin-interview-questions-part-2-62d174439c07
-https://medium.com/@mmlilla90/kotlin-interview-questions-part-3-269bbc8525dd
-https://medium.com/thefreshwrites/kotlin-android-interview-questions-part-2-b116def30397
-https://akcoding.medium.com/top-100-kotlin-interview-questions-for-a-senior-developer-0ff3104289e6
-https://akcoding.medium.com/top-100-kotlin-interview-questions-for-a-senior-developer-0ff3104289e6
-https://blog.mindorks.com/using-scoped-functions-in-kotlin-let-run-with-also-apply/
-https://medium.com/@vikasacsoni9211/quest-for-android-excellence-interview-edition-2024-part-i-11d5c517e9f6
-https://medium.com/@rahulbigv17/kotlin-interview-questions-and-answers-f4e6baae27a6
-https://khush7068.medium.com/10-kotlin-frequently-asked-interview-questions-3fab70d96b6c
-https://www.fullstack.cafe/blog/kotlin-interview-questions
-https://bootcamp.uxdesign.cc/android-interview-question-part-2-726f3be31a46
-https://medium.com/@MrAndroid/kotlin-interview-questions-and-answers-7767d5db7972
-https://blog.stackademic.com/important-coroutine-interview-questions-for-experienced-android-developers-a4f1d5ad19c3
-https://github.com/aershov24/kotlin-interview-questions
-https://medium.com/nerd-for-tech/android-kotlin-java-2020-2021-interview-questions-f87eef039220
-
-https://medium.com/nerd-for-tech/android-kotlin-java-2020-2021-interview-questions-f87eef039220
-https://blog.mindorks.com/using-scoped-functions-in-kotlin-let-run-with-also-apply/
-https://www.spiritsofts.com/kotlin-interview-questions-answers/
-https://interviewzilla.com/kotlin/kotlin-interview-questions/
-https://medium.com/@sujathamudadla1213/android-kotlin-coroutines-interview-questions-6118b7725f54
-https://gist.github.com/paulfranco/4453383cc6df064d03087ce7aa5a0c8c
-https://coderpad.io/interview-questions/kotlin-interview-questions/
-https://www.testgorilla.com/blog/kotlin-interview-questions/
-https://github.com/vamsitallapudi/Android-Interview-Questions-And-Answers/blob/master/kotlin/README.md
-https://akcoding.com/kotlin-interview-questions-for-senior-developer/#14-how-do-you-ensure-thread-safety-in-kotlin-applications
-https://shirsh94.medium.com/top-100-kotlin-interview-questions-and-answers-d1f6785f336a
-https://zsmb.co/top-10-kotlin-stack-overflow-questions-1/
+1. https://shirsh94.medium.com/top-100-kotlin-interview-questions-and-answers-d1f6785f336a**
+2. https://shirsh94.medium.com/top-100-kotlin-interview-questions-and-answers-d1f6785f336a
+3. https://medium.com/@mmlilla90/kotlin-interview-questions-part-2-62d174439c07
+4. https://medium.com/@mmlilla90/kotlin-interview-questions-part-3-269bbc8525dd
+5. https://medium.com/thefreshwrites/kotlin-android-interview-questions-part-2-b116def30397
+6. https://akcoding.medium.com/top-100-kotlin-interview-questions-for-a-senior-developer-0ff3104289e6
+7. https://akcoding.medium.com/top-100-kotlin-interview-questions-for-a-senior-developer-0ff3104289e6
+8. https://blog.mindorks.com/using-scoped-functions-in-kotlin-let-run-with-also-apply/
+9. https://medium.com/@vikasacsoni9211/quest-for-android-excellence-interview-edition-2024-part-i-11d5c517e9f6
+10. https://medium.com/@rahulbigv17/kotlin-interview-questions-and-answers-f4e6baae27a6
+11. https://khush7068.medium.com/10-kotlin-frequently-asked-interview-questions-3fab70d96b6c
+12. https://www.fullstack.cafe/blog/kotlin-interview-questions
+13. https://bootcamp.uxdesign.cc/android-interview-question-part-2-726f3be31a46
+14. https://medium.com/@MrAndroid/kotlin-interview-questions-and-answers-7767d5db7972
+15. https://blog.stackademic.com/important-coroutine-interview-questions-for-experienced-android-developers-a4f1d5ad19c3
+16. https://github.com/aershov24/kotlin-interview-questions
+17. https://medium.com/nerd-for-tech/android-kotlin-java-2020-2021-interview-questions-f87eef039220
+18. https://medium.com/nerd-for-tech/android-kotlin-java-2020-2021-interview-questions-f87eef039220
+19. https://blog.mindorks.com/using-scoped-functions-in-kotlin-let-run-with-also-apply/
+20. https://www.spiritsofts.com/kotlin-interview-questions-answers/
+21. https://interviewzilla.com/kotlin/kotlin-interview-questions/
+22. https://medium.com/@sujathamudadla1213/android-kotlin-coroutines-interview-questions-6118b7725f54
+23. https://gist.github.com/paulfranco/4453383cc6df064d03087ce7aa5a0c8c
+24. https://coderpad.io/interview-questions/kotlin-interview-questions/
+25. https://www.testgorilla.com/blog/kotlin-interview-questions/
+26. https://github.com/vamsitallapudi/Android-Interview-Questions-And-Answers/blob/master/kotlin/README.md
+27. https://akcoding.com/kotlin-interview-questions-for-senior-developer/#14-how-do-you-ensure-thread-safety-in-kotlin-applications
+28. https://shirsh94.medium.com/top-100-kotlin-interview-questions-and-answers-d1f6785f336a
+29. https://zsmb.co/top-10-kotlin-stack-overflow-questions-1/
