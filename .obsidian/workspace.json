@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FrontEnd/System Design/App Size.md",
+                "file": "FrontEnd/Kotlin/Packages.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FrontEnd/System Design/App Size.md",
+                "file": "FrontEnd/Kotlin/Packages.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FrontEnd/System Design/App Size.md",
+                "file": "FrontEnd/Kotlin/Packages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FrontEnd/System Design/App Size.md"
+                "file": "FrontEnd/Kotlin/Packages.md"
               }
             }
           }
@@ -149,6 +149,25 @@
   },
   "active": "8d0f8bbe164db4c6",
   "lastOpenFiles": [
+    "FrontEnd/Kotlin/Object Expression.md",
+    "FrontEnd/Kotlin/Object.md",
+    "FrontEnd/Kotlin/Method.md",
+    "FrontEnd/Kotlin/Lazy.md",
+    "FrontEnd/Kotlin/lateinit.md",
+    "FrontEnd/Kotlin/Lambda expression.md",
+    "FrontEnd/Kotlin/Lambda.md",
+    "FrontEnd/Kotlin/Kotlin Interview Questions.md",
+    "FrontEnd/Kotlin/Kotlin Apprentice Notes.md",
+    "FrontEnd/Kotlin/Packages.md",
+    "FrontEnd/Kotlin/Properties.md",
+    "FrontEnd/Kotlin/Receiver.md",
+    "FrontEnd/Kotlin/Scope functions*.md",
+    "FrontEnd/Kotlin/Sealed Class.md",
+    "FrontEnd/Kotlin/Singleton.md",
+    "FrontEnd/Kotlin/Static and Dynamic Dispatch.md",
+    "FrontEnd/Kotlin/unit.md",
+    "FrontEnd/Kotlin/Companion.md",
+    "FrontEnd/System Design/App Size.md",
     "Backend/Books/Carli M. - Functional Programming in Kotlin by Tutorials (1st Edition) - 2022.pdf",
     "Backend/Books/Dave Leeds - Kotlin_ An Illustrated Guide - The fun way to learn Kotlin programming, one concept at a time!-Independently Published (2024).pdf",
     "Backend/Books/Wangereka Harun - Mastering Kotlin for Android 14 - 2024.pdf",
@@ -156,36 +175,17 @@
     "Backend/Books/Soshin A. Kotlin Design Patterns and Best Practices...3ed 2024.pdf",
     "Backend/Books/Prasad P., Buketa D. - Jetpack Compose by Tutorials (2nd Edition) - 2023.pdf",
     "Backend/Books/Aigner S. Kotlin in Action 2ed 2024.pdf",
-    "FrontEnd/System Design/App Size.md",
     "Backend/Books",
     "FrontEnd/Swift/FunctionalProgramming.md",
-    "FrontEnd/Kotlin/Static and Dynamic Dispatch.md",
-    "FrontEnd/Kotlin/Singleton.md",
-    "FrontEnd/Kotlin/Sealed Class.md",
     "FrontEnd/Kotlin/Generics.md",
     "FrontEnd/Kotlin/Functional programming.md",
     "FrontEnd/Kotlin/Untitled.md",
-    "FrontEnd/Kotlin/unit.md",
     "FrontEnd/Kotlin/Annotation.md",
     "FrontEnd/Kotlin/Class/Enum - Sealed Class.md",
     "FrontEnd/Kotlin/Class/Constructors.md",
-    "FrontEnd/System Design/Polling.md",
-    "FrontEnd/System Design/Pagination.md",
-    "FrontEnd/System Design/Build Whatsapp Frontend.md",
-    "FrontEnd/System Design/Cache.md",
-    "FrontEnd/System Design/Chat application (e.g. Messenger).md",
-    "FrontEnd/System Design/Dynamic UI Amazon Flipkart.md",
-    "FrontEnd/System Design/GraphQL Frontend.md",
-    "FrontEnd/System Design/Live streaming IPL.md",
-    "FrontEnd/System Design/Modular Project.md",
-    "FrontEnd/System Design/Build Twitter Feed Frontend.md",
-    "FrontEnd/System Design/Websocket.md",
-    "FrontEnd/System Design/Secure.md",
-    "FrontEnd/System Design/Real Time comments.md",
     "Pasted image 20240728192357.png",
     "FrontEnd/Books/[Head first series] Griffiths, Dawn_Griffiths, David - Head first Kotlin_ a brain-friendly guide (2019, O'Reilly Media) - libgen.li.pdf",
     "FrontEnd/Books/KotlinProject/gradlew.bat",
-    "FrontEnd/Books/KotlinProject/gradle.properties",
     "FrontEnd/Books/KotlinProject/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp",
     "FrontEnd/Books/KotlinProject/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp",
     "FrontEnd/Books/KotlinProject/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp",

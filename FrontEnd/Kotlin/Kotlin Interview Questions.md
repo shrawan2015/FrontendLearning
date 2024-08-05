@@ -216,3 +216,4 @@
 27. https://akcoding.com/kotlin-interview-questions-for-senior-developer/#14-how-do-you-ensure-thread-safety-in-kotlin-applications
 28. https://shirsh94.medium.com/top-100-kotlin-interview-questions-and-answers-d1f6785f336a
 29. https://zsmb.co/top-10-kotlin-stack-overflow-questions-1/
+30. https://medium.com/@malikshahbaz213/kotlin-android-interview-questions-a14fc32c2d13
