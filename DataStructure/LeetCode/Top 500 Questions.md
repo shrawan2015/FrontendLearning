@@ -669,237 +669,113 @@ Medium
 [148. Sort List](https://leetcode.com/problems/sort-list/)
 [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
-
-48.9%
-
-Medium
-
 [155. Min Stack](https://leetcode.com/problems/min-stack/)
-
-52.3%
-
-Medium
-
 [189. Rotate Array](https://leetcode.com/problems/rotate-array/)
-
-39.4%
-
-Medium
-
 [198. House Robber](https://leetcode.com/problems/house-robber/)
-
-49.4%
-
-Medium
-
 [199. Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
-
-61.6%
-
-Medium
-
 [200. Number of Islands](https://leetcode.com/problems/number-of-islands/)
-
-57.0%
-
-Medium
-
 [207. Course Schedule](https://leetcode.com/problems/course-schedule/)
-
-45.4%
-
-Medium
-
 [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
 
-62.8%
 
-Medium
 
 [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
 
-66.2%
 
-Medium
 
 [230. Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 
-70.1%
-
-Medium
 
 [236. Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
 
-58.8%
-
-Medium
-
 [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)
 
-65.1%
-
-Medium
 
 [240. Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)
 
-51.0%
-
-Medium
 
 [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 
-59.1%
-
-Medium
 
 [300. Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 
-52.2%
-
-Medium
 
 [322. Coin Change](https://leetcode.com/problems/coin-change/)
 
-42.1%
-
-Medium
 
 [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
 
-64.2%
-
-Medium
 
 [394. Decode String](https://leetcode.com/problems/decode-string/)
 
-57.9%
-
-Medium
 
 [416. Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
 
-46.3%
-
-Medium
 
 [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
 
-50.2%
-
-Medium
 
 [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)
 
-43.7%
-
-Medium
 
 [567. Permutation in String](https://leetcode.com/problems/permutation-in-string/)
 
-44.3%
-
-Medium
 
 [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)
 
-66.3%
-
-Medium
-
 [763. Partition Labels](https://leetcode.com/problems/partition-labels/)
 
-79.7%
-
-Medium
 
 [994. Rotting Oranges](https://leetcode.com/problems/rotting-oranges/)
 
-52.9%
-
-Medium
 
 [1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
 
-58.4%
-
-Medium
 
 [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 
-36.2%
-
-Hard
 
 [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 
-49.8%
-
-Hard
 
 [25. Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
 
-54.7%
-
-Hard
 
 [32. Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)
 
-32.8%
-
-Hard
 
 [41. First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
 
-36.7%
-
-Hard
 
 [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)
 
-59.2%
-
-Hard
 
 [51. N-Queens](https://leetcode.com/problems/n-queens/)
 
-64.2%
-
-Hard
 
 [72. Edit Distance](https://leetcode.com/problems/edit-distance/)
 
-54.4%
-
-Hard
-
 [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
 
-40.9%
-
-Hard
 
 [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
 
-42.6%
-
-Hard
 
 [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 
-39.2%
-
-Hard
 
 [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
 
-46.3%
-
-Hard
-
 [295. Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/)
 
-51.4%
-
-Hard
-
 [https://leetcode.com/problem-list/top-100-liked-questions/?difficulty=HARD&page=1](https://leetcode.com/problem-list/top-100-liked-questions/?difficulty=HARD&page=1)
+
+
+
+https://leetcode.com/discuss/career/448285/List-of-questions-sorted-by-common-patterns
+https://leetcode.com/explore/interview/card/top-interview-questions-hard/116/array-and-strings/
+
+https://leetcode.com/discuss/general-discussion/675445/facebook-interview-experiences-all-combined-from-lc-till-date-07-jun-2020
+
+https://leetcode.com/list/xyvbjku7/
+https://leetcode.com/discuss/interview-question/3365796/ALL-IN-ONE-PLACE-TO-FAANG

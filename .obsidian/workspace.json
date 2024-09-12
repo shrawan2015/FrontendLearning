@@ -13,13 +13,48 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FrontEnd/Android/Android Concepts.md",
+                "file": "DataStructure/LeetCode/Facebook interview questions.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "b84d653a1401f5ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataStructure/Untitled 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af9d1f1e02abc6ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataStructure/Untitled 4.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d805cd68be8a13b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": " raywenderlich Tutorial Team, Rene Cacheaux, Josh Berlin - Advanced iOS App Architecture _ Real-world app architecture in Swift (2019, Razeware LLC) - libgen.li 2.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FrontEnd/Android/Android Concepts.md",
+                "file": " raywenderlich Tutorial Team, Rene Cacheaux, Josh Berlin - Advanced iOS App Architecture _ Real-world app architecture in Swift (2019, Razeware LLC) - libgen.li 2.pdf",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FrontEnd/Android/Android Concepts.md",
+                "file": " raywenderlich Tutorial Team, Rene Cacheaux, Josh Berlin - Advanced iOS App Architecture _ Real-world app architecture in Swift (2019, Razeware LLC) - libgen.li 2.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FrontEnd/Android/Android Concepts.md"
+                "file": " raywenderlich Tutorial Team, Rene Cacheaux, Josh Berlin - Advanced iOS App Architecture _ Real-world app architecture in Swift (2019, Razeware LLC) - libgen.li 2.pdf"
               }
             }
           }
@@ -147,55 +182,55 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "8d0f8bbe164db4c6",
+  "active": "8d805cd68be8a13b",
   "lastOpenFiles": [
-    "FrontEnd/Kotlin/Packages.md",
-    "FrontEnd/Android/Android Concepts.md",
-    "FrontEnd/Kotlin/Object Expression.md",
-    "FrontEnd/Kotlin/Object.md",
-    "FrontEnd/Kotlin/Method.md",
-    "FrontEnd/Kotlin/Lazy.md",
-    "FrontEnd/Kotlin/lateinit.md",
-    "FrontEnd/Kotlin/Lambda expression.md",
-    "FrontEnd/Kotlin/Lambda.md",
-    "FrontEnd/Kotlin/Kotlin Interview Questions.md",
-    "FrontEnd/Kotlin/Kotlin Apprentice Notes.md",
-    "FrontEnd/Kotlin/Properties.md",
-    "FrontEnd/Kotlin/Receiver.md",
-    "FrontEnd/Kotlin/Scope functions*.md",
-    "FrontEnd/Kotlin/Sealed Class.md",
-    "FrontEnd/Kotlin/Singleton.md",
-    "FrontEnd/Kotlin/Static and Dynamic Dispatch.md",
-    "FrontEnd/Kotlin/unit.md",
-    "FrontEnd/Kotlin/Companion.md",
-    "FrontEnd/System Design/App Size.md",
-    "Backend/Books/Carli M. - Functional Programming in Kotlin by Tutorials (1st Edition) - 2022.pdf",
-    "Backend/Books/Dave Leeds - Kotlin_ An Illustrated Guide - The fun way to learn Kotlin programming, one concept at a time!-Independently Published (2024).pdf",
-    "Backend/Books/Wangereka Harun - Mastering Kotlin for Android 14 - 2024.pdf",
-    "Backend/Books/Soshin Alexey - Kotlin Design Patterns and Best Practices, 3rd Edition (Expert insight) - 2024.pdf",
-    "Backend/Books/Soshin A. Kotlin Design Patterns and Best Practices...3ed 2024.pdf",
-    "Backend/Books/Prasad P., Buketa D. - Jetpack Compose by Tutorials (2nd Edition) - 2023.pdf",
-    "Backend/Books/Aigner S. Kotlin in Action 2ed 2024.pdf",
-    "Backend/Books",
-    "FrontEnd/Swift/FunctionalProgramming.md",
-    "FrontEnd/Kotlin/Generics.md",
-    "FrontEnd/Kotlin/Functional programming.md",
-    "FrontEnd/Kotlin/Untitled.md",
-    "FrontEnd/Kotlin/Annotation.md",
-    "FrontEnd/Kotlin/Class/Enum - Sealed Class.md",
+    "Refactoring_Improving_the_Design_of_Existing_Code_Martin_Fowler.pdf",
+    "Deep Learning with Swift for TensorFlow.epub",
+    "The iOS Guide v.1.0.6 2.pdf",
+    "The Clean Swift Handbook.pdf",
+    "SwiftUI Apprentice Beginning iOS Programming with SwiftUI (Audrey Tam Caroline Begbie) (z-lib.org).pdf",
+    "Pro Design Patterns in Swift.pdf",
+    "MVVM in SwiftUI - Mohammad Azam.pdf",
+    "A SwiftUI Kickstart.pdf",
+    "A Combine Kickstart.pdf",
+    "30 Auto Layout Best Practices v1.0 2.pdf",
+    "raywenderlich Tutorial Team, Jayven Nhan, Libranner Santos - Auto Layout by Tutorials (First Edition)_ Build Dynamic User Interfaces on iOS-Bowker (2020).pdf",
+    "DataStructure/LeetCode/Heap.md",
+    "DataStructure/LeetCode/Hash Table.md",
+    "DataStructure/LeetCode/Sliding Window.md",
+    "DataStructure/LeetCode/Top 500 Questions.md",
+    "DataStructure/LeetCode/Recursion.md",
+    "DataStructure/LeetCode/Tries.md",
+    "Untitled.canvas",
+    "Screenshot 2024-08-23 at 20.14.28.png",
+    "Screenshot 2024-08-23 at 20.14.20.png",
+    "Screenshot 2024-08-23 at 20.12.21.png",
+    "Screenshot 2024-08-23 at 20.11.56.png",
+    "Pasted image 20240728202725.png",
     "Pasted image 20240728192357.png",
-    "FrontEnd/Books/[Head first series] Griffiths, Dawn_Griffiths, David - Head first Kotlin_ a brain-friendly guide (2019, O'Reilly Media) - libgen.li.pdf",
-    "FrontEnd/Books/KotlinProject/gradlew.bat",
+    "Pasted image 20240726212355.png",
+    "DataStructure/Untitled 2.md",
+    "DataStructure/Untitled 1.md",
+    "DataStructure/LeetCode/Graph.md",
+    "DataStructure/LeetCode/Tree.md",
+    "DataStructure/LeetCode/Matrix.md",
+    "DataStructure/LeetCode/Linked List.md",
+    "DataStructure/LeetCode/Interval.md",
+    "DataStructure/LeetCode/Game.md",
+    "DataStructure/LeetCode/Facebook interview questions.md",
+    "DataStructure/LeetCode/Dynamic Programming.md",
+    "DataStructure/LeetCode/Array.md",
+    "DataStructure/Question.md",
+    "DataStructure/LeetCode/String.md",
+    "Untitled.md",
+    "DataStructure/Untitled 4.md",
+    "DataStructure/Untitled 3.md",
+    "DataStructure/Untitled.md",
+    "Backend/SystemDesign/Design system.md",
+    "DataStructure/Concepts/Array.md",
     "FrontEnd/Books/KotlinProject/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp",
     "FrontEnd/Books/KotlinProject/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp",
     "FrontEnd/Books/KotlinProject/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp",
-    "FrontEnd/Books/KotlinProject/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp",
-    "FrontEnd/Books/KotlinProject/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp",
-    "FrontEnd/Books/KotlinProject/app/src/main/res/mipmap-xhdpi/ic_launcher.webp",
-    "FrontEnd/Books/KotlinProject/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp",
-    "FrontEnd/Books/KotlinProject/app/src/main/res/mipmap-mdpi/ic_launcher.webp",
-    "FrontEnd/Books/KotlinProject/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp",
-    "Untitled.canvas",
     "Untitled 1.canvas"
   ]
 }
